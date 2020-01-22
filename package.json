@@ -1,0 +1,9 @@
+{
+  "name": "monorepo",
+  "description": "Yarn Workspaces basic monorepo management without Lerna (for coding examples)",
+  "private": true,
+  "workspaces": [
+    "app",
+    "my-lib"
+  ]
+}
