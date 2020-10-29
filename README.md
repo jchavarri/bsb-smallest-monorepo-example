@@ -8,7 +8,7 @@ cd app
 yarn build
 ```
 
-# Build + Watch
+# Watch
 
 ```
 cd app
